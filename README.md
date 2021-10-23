@@ -10,7 +10,7 @@ So, if you were looking for information on this topic, but other sources did not
 
 ### Package description
 
-* An implementation of the algorithm is in the file [BubbleArray.java](https://github.com/AlexCodePlace/bubble-sort-algorithm/blob/master/src/bubblesort/BubbleArray.java) 
+* An implementation of the algorithm is given in the file [BubbleArray.java](https://github.com/AlexCodePlace/bubble-sort-algorithm/blob/master/src/bubblesort/BubbleArray.java) 
 * Мethod "bubbleSorter" performs sorting of the array by the Bubble sort algorithm. The detailed explanation of this method realization is given below. 
 * A demonstration of the algorithm work is given in the file [BubbleSortDemo.java](https://github.com/AlexCodePlace/bubble-sort-algorithm/blob/master/src/bubblesort/BubbleSortDemo.java)
 
