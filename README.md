@@ -27,7 +27,7 @@ Here is the key ideas of the method bubbleSorter realization according to the ex
 
 * Therefore, step by step each element comes on its place.
 
-!['BubbleSortImg1](https://user-images.githubusercontent.com/81437286/138553134-b7a9995a-917f-48db-b65a-0000678c9139.PNG)
+!['BubbleSortImg1](https://user-images.githubusercontent.com/81437286/138553286-54fc415d-97eb-41ee-89e1-aabf6494acaa.PNG)
 
 !['BubbleSortImg2](https://user-images.githubusercontent.com/81437286/138553138-18a12427-0f34-4041-a0c7-1c97407767a6.PNG)
 
