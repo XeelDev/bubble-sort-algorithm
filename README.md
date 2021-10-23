@@ -15,11 +15,11 @@ So, if you were looking for information on this topic, but other sources did not
 * A demonstration of the algorithm work is given in the file [BubbleSortDemo.java](https://github.com/AlexCodePlace/bubble-sort-algorithm/blob/master/src/bubblesort/BubbleSortDemo.java)
 
 ### Key ideas
-Here is the key ideas of the method bubbleSorter realization according to the example below. Look at the illustrations and read the explanation.
+Here are the key ideas of the method bubbleSorter realization according to the example below. Look at the illustrations and read the explanation.
 
 * In the example on the pictures we have array with 6 elements {15, 8, 23, 16, 42, 4}.
 
-* Algorithm makes iterations in **outer loop** and **inner loop**. For each iteration in **outer loop** the algorithm iterates from the first element to the last **in inner loop**. The last element is bounded by the **__“__array out border__”__**,  that moved by **outer loop** after its each iteration. 
+* Algorithm makes iterations in **outer loop** and **inner loop**. For each iteration in **outer loop** the algorithm iterates from the first element to the last in **inner loop**. The last element is bounded by the **__“__array out border__”__**,  that moved by **outer loop** after its each iteration. 
 
 * At the beginning, in **inner loop** algorithm iterates for 5 times comparing each element with the next element and swapping them if the next element is less.
 
