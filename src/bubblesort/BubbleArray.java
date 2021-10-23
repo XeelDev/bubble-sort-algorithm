@@ -12,7 +12,7 @@ public class BubbleArray {
 
     /*
     The method for Bubble sorting.
-    The detail explanation of this method provided in README file on
+    A detailed description of this algorithm can be found in the README on https://github.com/AlexCodePlace/bubble-sort-algorithm
      */
     public void bubbleSorter(){
         for (int arrayOutBorder = array.length - 1; arrayOutBorder >= 1; arrayOutBorder--){ // Outer loop
