@@ -35,4 +35,4 @@ Here are the key ideas of the method bubbleSorter realization according to the e
 
 ## Author
 
-[AlexCodePlace](https://github.com/AlexCodePlace)
+[XeelDev](https://github.com/XeelDev))
